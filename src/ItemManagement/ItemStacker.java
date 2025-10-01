@@ -1,5 +1,7 @@
 package ItemManagement;
 
+import ItemManagement.Items.Item;
+
 public class ItemStacker {
     int limit;
     int currentAmount;
